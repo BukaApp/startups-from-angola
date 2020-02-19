@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 1500px;
+}
+
+.headerFixed {
+  background-color: #292c2f;
+  box-shadow: 0 1px 1px #ccc;
+  padding: 20px 40px;
+  height: 80px;
+  color: #FFFFFF;
+  top: -100px;
+  transition: top 0.3s;
+}
+
+.headerFixed .limiter {
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.headerFixed .limiter h1 {
+  float: left;
+  line-height: 40px;
+  margin: 0;
+}
+
+.headerFixed .limiter h1 span {
+  color: #DD3944;
+}
+
+.headerFixed .limiter a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.headerFixed .limiter nav {
+  line-height: 40px;
+  float: right;
+}
+
+.headerFixed .limiter nav a {
+  display: inline-block;
+  padding: 0 5px;
+  text-decoration: none;
+  color: #FFFFFF;
+  opacity: 0.9;
+}
+
+.headerFixed .limiter nav a:hover {
+  opacity: 1;
+}
+
+.headerFixed .limiter nav a.selected {
+  color: #608bd2;
+  pointer-events: none;
+  opacity: 1;
+}
+
+.headerFixedPlaceholder {
+  height: 80px;
+  display: none;
+}
+
+/** Versão fixa do cabeçalho **/
+body.fixed .headerFixed {
+  padding: 10px 40px;
+  height: 50px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+body.fixed .headerFixedPlaceholder {
+  display: block;
+}
+
+body.fixed .headerFixed .limiter {
+  line-height: 28px;
+  font-size: 13px;
+}
+
+@media all and (max-width: 600px) {
+  .headerFixed {
+    padding: 20px 0;
+    height: 75px;
+  }
+
+  .headerFixed .limiter h1 {
+    float: none;
+    margin: -8px 0 10px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 1;
+  }
+
+  .headerFixed .limiter nav {
+    float: none;
+    line-height: 1;
+  }
+
+  .headerFixed .limiter nav a {
+    font-size: 13px;
+  }
+
+  body.fixed .headerFixed {
+    display: none;
+  }
+}
