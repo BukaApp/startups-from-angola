@@ -3,68 +3,80 @@ const companies = [{
     name: "BukaApp",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "http://bukaapp.com/",
-    alt: "Bukapp"
+    alt: "Bukapp",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "Jobartis",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.jobartis.com/",
-    alt: "Jobartis"
+    alt: "Jobartis",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "Usekamba",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.usekamba.com/",
-    url: "Usekamba"
+    url: "Usekamba",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "Deya",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://deyamais.com/",
-    alt: "Deya"
+    alt: "Deya",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }, {
     name: "Next",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.nextbss.co.ao/",
-    alt: "Next"
+    alt: "Next",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }, {
     name: "GreenTech",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.energygreentech.solutions/",
-    alt: "GreenTech"
+    alt: "GreenTech",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }, {
     name: "Kubinga",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.kubinga.com/",
-    alt: "Kubinga"
+    alt: "Kubinga",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }, {
     name: "Tupuca",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.tupuca.com/en/",
-    alt: "Tupuca"
+    alt: "Tupuca",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }, {
     name: "Soba E-store",
-    image: "https://www.soba-store.com/wp-content/uploads/2019/06/icon_soba-1.png",
+    image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.soba-store.com/",
-    alt: "Soba E-store"
+    alt: "Soba E-store",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "Menos Fio",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.menosfios.com/",
-    alt: "Menos"
+    alt: "Menos",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "WiConnect",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "http://wiconnect.co/",
-    alt: "WiConnect"
+    alt: "WiConnect",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     name: "App Saúde",
     image: "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
     url: "https://www.appysaude.co.ao/",
-    alt: "App Saude"
+    alt: "App Saude",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
 ]
 const showCompanies = () => {
@@ -74,14 +86,24 @@ const showCompanies = () => {
       name,
       image,
       alt,
-      url
+      url,
+      description
     }) =>
     (
       output += `
-          <div class="card">
-            <img class="card--image" src=${image} alt=${alt}/>
-            <h1 class="card--title">${name}</h1>
-            <a class="card--link" target="_blank" href=${url}>${name}</a>
+        <div>
+          <ul>
+            <li>
+              <img src=${image} alt=${alt}/>
+              <footer>
+                <strong>${name}</strong>
+                <p>${description}</p>
+              </footer>
+              <div class="link-button">
+                <a href=${url} target="_blank">Saber mais</a>
+              </div>
+            </li>
+            </ul>
           </div>
         `
     )
