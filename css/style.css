@@ -43,6 +43,18 @@ li {
   color: #fff;
 }
 
+
+li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+li a:hover {
+  color: #DD3944;
+}
+
 h1 {
   margin-bottom: 0.5rem;
 }
@@ -119,3 +131,14 @@ div ul li .link-button a {
   cursor: pointer;
 }
 
+footer {
+  background-color: #292c2f;
+  padding: 40px 40px;
+  height: 60px;
+}
+
+footer p {
+  color: #FFF;
+  font-size: 18px;
+  text-align: center;
+}
