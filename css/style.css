@@ -14,7 +14,7 @@ body {
 .container {
   max-width: 980px;
   margin: 0 auto;
-  padding: 10px 0;
+  padding: 20px 0;
   text-align: center;
 }
 
@@ -77,6 +77,12 @@ div {
   padding: 1rem 0;
 }
 
+div h1 {
+  padding: 35px;
+  text-align: center;
+  color: #DD3944;
+}
+
 div ul li {
   display: flex;
   flex-direction: column;
@@ -107,6 +113,7 @@ div ul li footer p {
   line-height: 20px;
   color: #999;
   margin-top: 5px;
+  text-align: left;
 }
 
 div ul li a {
@@ -131,14 +138,78 @@ div ul li .link-button a {
   cursor: pointer;
 }
 
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+main {
+  background-color: #DD3944;
+  text-align: center;
+  color: #FFF;
+  padding: 4rem 0;
+  margin-bottom: 2rem;
+}
+
+main p {
+  font-size: 1.2rem;
+}
+
+main h1 {
+  font-size: 2rem;
+  opacity: 0.9;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: 'Open Sans', sans-serif;
+  color: #222;
+  text-shadow: 1px 1px 0px #284473,
+    2px 2px 0px #284473,
+    3px 3px 0px #284473;
+}
+
+section {
+  margin: auto;
+  width: 75%;
+}
+
+section h2 {
+  text-transform: uppercase;
+  font-family: 'Open Sans'sans-serif;
+  font-weight: 900;
+  color: #222;
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
+
+section p {
+  margin-bottom: 2rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
+  font-size: 1.05rem;
+  line-height: 1.5rem;
+}
+
 footer {
-  background-color: #292c2f;
-  padding: 40px 40px;
-  height: 60px;
+  color: #fff;
+  background: #222;
+  text-align: center;
+  padding: 3rem 0;
+  margin-top: 6rem;
+  font-weight: 100;
+  font-size: 1.05rem;
 }
 
 footer p {
-  color: #FFF;
-  font-size: 18px;
-  text-align: center;
+  margin: 15px;
+}
+
+footer a {
+  text-decoration: none;
+  margin: 2.3rem 0;
+}
+
+footer a img {
+  width: 32px;
 }
