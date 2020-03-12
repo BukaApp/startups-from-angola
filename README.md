@@ -48,6 +48,7 @@
 >[Otchitanda](https://www.Otchitnda.com)
 
 > *AgriTech*
+
 >[Kitanda](https://www.Kitandaonlinemegastore.com)
 
 >[Kepya](https://www.Kepya.co.ao)
@@ -65,6 +66,7 @@
 >[Angola2Learn](https://www.Angola2learn.co.ao)
 
 > *Media, Ads & leisure*
+
 >[Menos fios](https://www.menosfios.com)
 
 
