@@ -32,14 +32,17 @@
   >[Mwango Brain](https://MwangoBrain.com).
 
 > *Clean Tech & Utilities*
+
 >[Green Tech](https://www.energygreentech.solutions).
+
 > *Logistics*
->[Kubinga](https://www.Kubinga.tech)
+
+>[Kubinga](https://www.Kubinga.tech).
 
 > *E-commerce*
->[Tupuca](https://www.Tupuca.com)
+>[Tupuca](https://www.Tupuca.com).
 
->[Soba ](https://www.Soba-store.com)
+>[Soba ](https://www.Soba-store.com).
 
 >[Stekargo](https://www.Stekargo.com)
 
@@ -47,15 +50,15 @@
 
 >[Otchitanda](https://www.Otchitnda.com)
 
-> *AgriTech*
+> *AgriTech*.
 
->[Kitanda](https://www.Kitandaonlinemegastore.com)
+>[Kitanda](https://www.Kitandaonlinemegastore.com).
 
->[Kepya](https://www.Kepya.co.ao)
+>[Kepya](https://www.Kepya.co.ao).
 
-> *ED Tech*
+> *ED Tech*.
 
->[Educartis](https://www.Educartis.co.ao)
+>[Educartis](https://www.Educartis.co.ao).
 
 >[Buka](https://www.Bukaapp.com)
 
@@ -65,9 +68,9 @@
 
 >[Angola2Learn](https://www.Angola2learn.co.ao)
 
-> *Media, Ads & leisure*
+> *Media, Ads & leisure*.
 
->[Menos fios](https://www.menosfios.com)
+>[Menos fios](https://www.menosfios.com).
 
 
 
