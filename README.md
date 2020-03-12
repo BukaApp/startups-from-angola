@@ -31,46 +31,46 @@
 
   >[Mwango Brain](https://MwangoBrain.com).
 
-> *Clean Tech & Utilities*
+  > *Clean Tech & Utilities*
 
->[Green Tech](https://www.energygreentech.solutions).
+  >[Green Tech](https://www.energygreentech.solutions).
 
-> *Logistics*
+  > *Logistics*
 
->[Kubinga](https://www.Kubinga.tech).
+  >[Kubinga](https://www.Kubinga.tech).
 
-> *E-commerce*
->[Tupuca](https://www.Tupuca.com).
+  > *E-commerce*
+  >[Tupuca](https://www.Tupuca.com).
 
->[Soba ](https://www.Soba-store.com).
+  >[Soba ](https://www.Soba-store.com).
 
->[Stekargo](https://www.Stekargo.com)
+  >[Stekargo](https://www.Stekargo.com)
 
->[BayQI](https://www.Bayqi.com)
+  >[BayQI](https://www.Bayqi.com)
 
->[Otchitanda](https://www.Otchitnda.com)
+  >[Otchitanda](https://www.Otchitnda.com)
 
-> *AgriTech*.
+  > *AgriTech*.
 
->[Kitanda](https://www.Kitandaonlinemegastore.com).
+  >[Kitanda](https://www.Kitandaonlinemegastore.com).
 
->[Kepya](https://www.Kepya.co.ao).
+  >[Kepya](https://www.Kepya.co.ao).
 
-> *ED Tech*.
+  > *ED Tech*.
 
->[Educartis](https://www.Educartis.co.ao).
+  >[Educartis](https://www.Educartis.co.ao).
 
->[Buka](https://www.Bukaapp.com)
+  >[Buka](https://www.Bukaapp.com)
 
->[Ecaderneta](https://www.ecaderneta.com)
+  >[Ecaderneta](https://www.ecaderneta.com)
 
->[Academia Nzoji](https://www.acadmianzoji.com)
+  >[Academia Nzoji](https://www.acadmianzoji.com)
 
->[Angola2Learn](https://www.Angola2learn.co.ao)
+  >[Angola2Learn](https://www.Angola2learn.co.ao)
 
-> *Media, Ads & leisure*.
+  > *Media, Ads & leisure*.
 
->[Menos fios](https://www.menosfios.com).
+  >[Menos fios](https://www.menosfios.com).
 
 
 
