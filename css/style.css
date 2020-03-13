@@ -175,6 +175,12 @@ section {
   width: 75%;
 }
 
+section h1 {
+  margin: 20px;
+  font-size: 1.75rem;
+  text-transform: uppercase;
+}
+
 section h2 {
   text-transform: uppercase;
   font-family: 'Open Sans'sans-serif;
