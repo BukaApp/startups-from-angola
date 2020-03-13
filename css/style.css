@@ -90,6 +90,7 @@ div ul li {
 
 div ul li img {
   max-width: 100%;
+  height: auto;
   border-radius: 5px 5px 0 0;
 }
 

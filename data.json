@@ -3,6 +3,14 @@
     "title": "Hardware & High Tech",
     "items": [{
         "id": 1,
+        "companyName": "BukaApp",
+        "imageUrl": "https://scontent.flad2-1.fna.fbcdn.net/v/t31.0-8/p960x960/15493264_543617459178091_4922415347370585606_o.png?_nc_cat=108&_nc_sid=85a577&_nc_ohc=Pk37TCR4t_8AX9vHSzk&_nc_ht=scontent.flad2-1.fna&oh=70ebb681ab74bbb30566fac882ed34bc&oe=5E99153C",
+        "url": "",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "alt": ""
+      },
+      {
+        "id": 2,
         "companyName": "",
         "imageUrl": "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
         "url": "",
@@ -10,17 +18,9 @@
         "alt": ""
       },
       {
-        "id": 2,
-        "companyName": "",
-        "imageUrl": "",
-        "url": "",
-        "description": "",
-        "alt": ""
-      },
-      {
         "id": 3,
         "companyName": "",
-        "imageUrl": "",
+        "imageUrl": "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
         "url": "",
         "description": "",
         "alt": ""
@@ -28,7 +28,7 @@
       {
         "id": 4,
         "companyName": "",
-        "imageUrl": "",
+        "imageUrl": "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
         "url": "",
         "description": "",
         "alt": ""
@@ -49,7 +49,7 @@
       {
         "id": 6,
         "companyName": "Jobartis",
-        "imageUrl": "https://s3-sa-east-1.amazonaws.com/kamba-images/SEO/NewImageAppSEO.png",
+        "imageUrl": "https://www.jobartis.com/blog/wp-content/uploads/2016/02/Jobartis-Color-300x100.png",
         "url": "https://www.jobartis.com/blog/",
         "description": "Jobartis e o primeiro portal de emprego de Angola. Nasceu em 2013 com a necessidade de criar uma ferramenta de emprego útil para empresas e candidatos. A ferramenta é 100% Angolana.",
         "alt": "Jobartis"
