@@ -90,6 +90,7 @@ div ul li {
 
 div ul li img {
   max-width: 100%;
+  height: auto;
   border-radius: 5px 5px 0 0;
 }
 
@@ -174,6 +175,12 @@ section {
   width: 75%;
 }
 
+section h1 {
+  margin: 20px;
+  font-size: 1.75rem;
+  text-transform: uppercase;
+}
+
 section h2 {
   text-transform: uppercase;
   font-family: 'Open Sans'sans-serif;
@@ -189,6 +196,29 @@ section p {
   font-weight: 100;
   font-size: 1.05rem;
   line-height: 1.5rem;
+}
+
+.see-button {
+  text-align: center;
+  padding: 20px;
+}
+
+.see-button a {
+  background-color: #009933;
+  border: none;
+  color: #fff;
+  padding: 15px 32px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 18px;
+  border-radius: 2px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.see-button a:hover {
+  background-color: #006622;
 }
 
 footer {
