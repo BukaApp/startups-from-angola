@@ -43,6 +43,7 @@
    - [Stekargo](https://www.Stekargo.com)
    - [BayQI](https://www.Bayqi.com)
    - [Otchitanda](https://www.Otchitnda.com)
+   - [Mamboo](https://mamboo.co.ao)
 
   > *AgriTech*.
 
@@ -56,10 +57,12 @@
    - [Ecaderneta](https://www.ecaderneta.com)
    - [Academia Nzoji](https://www.acadmianzoji.com)
    - [Angola2Learn](https://www.Angola2learn.co.ao)
+   - [AoCursos](https://www.aocursos.com)
 
   > *Media, Ads & leisure*.
 
-   - [Menos fios](https://www.menosfios.com).
+   - [Menos fios](https://www.menosfios.com)
+   - [Portal de TI](https://pti.ao/)
 
 
 
