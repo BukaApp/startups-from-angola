@@ -10,7 +10,7 @@
 
   > *Jobs & GIG* 
 
-   - [Empregos Yoyota](http://empregosyoyota.com).
+   - [Empregos Yoyota](http://empregosyoyota.net).
    - [Emprego](https://Emprego.co.ao).
    - [Jobartis](https://Jobartis.com).
    - [Ango Emprego](http://angoemprego.com).
